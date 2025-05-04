@@ -1,5 +1,6 @@
 <?php
 
+$major="Informatika";
 $name= "Pasha";
 
 ?>
@@ -13,5 +14,6 @@ $name= "Pasha";
 </head>
 <body>
     <h1>Nama saya <?php echo $name ?></h1>
+    <h1>Saya Dari Jurusan <?php echo $major ?></h1>
 </body>
 </html>
